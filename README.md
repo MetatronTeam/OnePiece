@@ -5,9 +5,12 @@
 #### [중요] 지원하는 프로토콜 버전 (Genisys) : 81 ~
 
 ## ABILITY FRUIT
+## 악마의 열매 - 자연계
 ### DarkDark Fruit
+### 어둠어둠 열매
 #### PASSIVE - Darkness Absorption
-Receive Damage x3
+#### 패시브 - 어둠 흡수
+Receive Damage x3<BR/>입는 데미지 3배
 #### SKILL1 - Darkness Swirl
 Pull all nearby enemies forward. (Radius 5m, Cooltime 7sec, 5% of enemies's max health damage)
 #### SKILL2 - DarkDark
