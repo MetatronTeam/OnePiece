@@ -1,7 +1,8 @@
 # OnePiece PLUGIN
 # 원피스 플러그인
 
-Support Version : 81 ~
+Support protocol Version (Genisys) : 81 ~
+지원하는 프로토콜 버전 (Genisys) : 81 ~
 
 ## ABILITY FRUIT
 ### DarkDark Fruit
