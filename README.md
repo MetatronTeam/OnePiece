@@ -12,5 +12,5 @@ Pull all nearby enemies forward. (Radius 5m, Cool 7sec, 5% of enemies's max heal
 Seals the emeny's ability nearby. (Radius 1.5m, PASSIVE)
 ####SKILL3
 
-####ULTIMATE
+####ULTIMATE - Blackhole/Riberation
 Move all nearby enemies in blackhole
