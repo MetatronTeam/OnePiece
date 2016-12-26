@@ -17,3 +17,11 @@ Throw dark sphere to the target. (Radius 7m, Cooltime 12sec, only one target, 15
 Move all nearby enemies in blackhole. (Radius 10m, 30% of enemies's max health damage)
 #####Riberation
 Throw all enemies who is in blackhole. (Start Cooltime, 40% of enemies's max health damage)
+
+###FleecyFleecy Fruit
+
+
+##ABILITY FRUIT
+###ShakeShake Fruit
+
+###RubberRubber Fruit
