@@ -3,7 +3,7 @@
 #### [IMPORTANT] Support protocol Version (Genisys) : 81 ~
 #### [중요] 지원하는 프로토콜 버전 (Genisys) : 81 ~
 
-## ABILITY FRUIT (악마의 열매 - 자연계)
+## ABILITY FRUIT - NATURE (악마의 열매 - 자연계)
 ### DarkDark Fruit (어둠어둠 열매)
 #### PASSIVE - Darkness Absorption (패시브 - 어둠 흡수)
 Receive Damage x3 (입는 데미지 3배)
@@ -23,7 +23,7 @@ Throw all enemies who is in blackhole. (Start Cooltime, 40% of enemies's max hea
 #### PASSIVE - Smoke Body
 Move speed + 20%, Attack Speed + 30%
 
-## ABILITY FRUIT
+## ABILITY FRUIT - SUPERMAN
 ### ShakeShake Fruit
 #### PASSIVE - Vibration Attack
 if attack enemy, give 10 + 0.3AD more damage.
