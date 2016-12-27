@@ -12,7 +12,7 @@ Pull all nearby enemies forward. (Radius 5m, Cooltime 7sec, 5% of enemies's max 
 #### SKILL2 - DarkDark
 Seals the emeny's ability nearby. (Radius 1.5m, PASSIVE)
 #### SKILL3 - Dark matter
-Throw dark sphere to the target. (Radius 7m, Cooltime 12sec, only one target, 150 + 0.9AD damage)
+Throw dark sphere to the target. (Radius 7m, Cooltime 12sec, only one target, 150 + 0.3AP damage)
 #### ULTIMATE - Blackhole/Riberation (Cooltime 80sec)
 ##### Blackhole
 Move all nearby enemies in blackhole. (Radius 10m, 30% of enemies's max health damage)
@@ -20,9 +20,14 @@ Move all nearby enemies in blackhole. (Radius 10m, 30% of enemies's max health d
 Throw all enemies who is in blackhole. (Start Cooltime, 40% of enemies's max health damage)
 
 ### FleecyFleecy Fruit
-
+#### PASSIVE - Smoke Body
+Move speed + 20%, Attack Speed + 30%
 
 ## ABILITY FRUIT
 ### ShakeShake Fruit
+#### PASSIVE - Vibration Attack
+if attack enemy, give 10 + 0.3AD more damage.
 
 ### RubberRubber Fruit
+#### PASSIVE - Rubber Human
+Don't Receive Fall Damage
