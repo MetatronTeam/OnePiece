@@ -28,6 +28,20 @@ Move speed + 20%, Attack Speed + 30%
 #### PASSIVE - Vibration Attack
 if attack enemy, give 10 + 0.3AD more damage.
 
+### StringString Fruit
+#### PASSIVE - 
+#### ULTIMATE - Parasite
+Ignore the Target's behavior. And To Make Target attack Target's Friendly.
 ### RubberRubber Fruit
 #### PASSIVE - Rubber Human
 Don't Receive Fall Damage
+
+### AttractiveAttractive Fruit
+#### PASSIVE - Attractive Body
+Armor Penetration + 20%
+Magical Defence Penetration + 20%
+#### Q - Bold Jump
+Upward Attack to enemy (Height : About 7m, Cooltime : 7sec, only one target, Range : Attack Range, 75 + 1.2AD damage)
+#### W - Blinding Blast
+kick to all enemies in the air. (Radius : 15m, Need Enemy Height : Highest Block's y + 2, 120 + 0.9AD damage)
+#### E - 
